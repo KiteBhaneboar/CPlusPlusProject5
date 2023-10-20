@@ -1,0 +1,6 @@
+﻿  MLP5.cpp
+C:\Users\hills\source\repos\MLP5\MLP5\MLP5.cpp(91,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hills\source\repos\MLP5\MLP5\MLP5.cpp(93,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hills\source\repos\MLP5\MLP5\MLP5.cpp(95,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hills\source\repos\MLP5\MLP5\MLP5.cpp(97,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MLP5.vcxproj -> C:\Users\hills\source\repos\MLP5\x64\Debug\MLP5.exe
